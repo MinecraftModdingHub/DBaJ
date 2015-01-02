@@ -9,18 +9,19 @@ Based off the original DBAJ ("Don't Be a Jerk") license from jakimfett, improvem
 
 This means that you’re free to pretty much do what you like with the the code (source) or compiled binaries (jar/zip/class files), including but not limited to:
 
- ####Download code or compiled binaries for personal use
-  #####Put the code or compiled binaries into your modpack
-  #####Fork the repository on github
-  #####Compile the code
- ####Modify the code to:
-  #####fix bugs
-  #####add features
-  #####fit better with your modpack
-  #####remove a problematic item
-  #####replace all item icons with cat pictures, because cats are...
-  #####Use portions of the code as examples in a presentation
-  #####Record portions of gameplay for display on YouTube or other video/media sites
+ Download code or compiled binaries for personal use
+ Put the code or compiled binaries into your modpack
+ Fork the repository on github
+ Compile the code
+ 
+ *Modify the code to:*
+ fix bugs
+ add features
+ fit better with your modpack
+ remove a problematic item
+ replace all item icons with cat pictures, because cats are...
+ Use portions of the code as examples in a presentation
+ Record portions of gameplay for display on YouTube or other video/media sites
 
 The above usage is granted to you as long as this license remains intact for all original or derived code. Please include a copy of this license with the code, or provide a link to this document, just to make sure everyone's as cool as you.
 
